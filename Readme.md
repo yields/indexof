@@ -1,4 +1,3 @@
-
 # indexof
 
   indexof the given element.
@@ -7,7 +6,15 @@
 
     $ component install yields/indexof
 
-## API
+## Example
+
+```js
+var ul = document.createElement('ul');
+var li = document.createElement('li');
+ul.appendChild(document.createElement('li'));
+ul.appendChild(li);
+indexof(li); // 1
+```
 
    
 
