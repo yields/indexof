@@ -1,0 +1,17 @@
+{
+  "name": "indexof",
+  "repo": "yields/indexof",
+  "description": "indexof the given element.",
+  "version": "0.0.1",
+  "keywords": ["indexof"],
+  "dependencies": {},
+  "development": {
+    "visionmedia/mocha": "*",
+    "component/assert": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
