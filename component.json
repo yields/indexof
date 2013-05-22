@@ -2,7 +2,7 @@
   "name": "indexof",
   "repo": "yields/indexof",
   "description": "indexof the given element.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": ["indexof"],
   "dependencies": {},
   "development": {
