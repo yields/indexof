@@ -1,0 +1,22 @@
+{
+  "name": "indexof-element",
+  "version": "1.0.1",
+  "description": "indexof the given element.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yields/indexof.git"
+  },
+  "author": "yields",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yields/indexof/issues"
+  },
+  "homepage": "https://github.com/yields/indexof#readme"
+}
